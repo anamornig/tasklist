@@ -7,12 +7,6 @@
       "reminder": true
     },
     {
-        "id":2,
-        "text": "dsdsadsadas",
-        "day": "agosto 3 a las 9",
-        "reminder": true
-    },
-    {
       "id": 3,
       "text": "Hacer las compras",
       "day": "agosto 5 a las 18",
@@ -23,6 +17,12 @@
       "text": "Leer un libro",
       "day": "agosto 5 a las 20",
       "reminder": false
+    },
+    {
+      "text": "Entrar a reunion de zoom",
+      "day": "16 de mayo a las 3pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
